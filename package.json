@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.4",
+    "cypress-iframe": "^1.0.1",
+    "dotenv": "^16.4.1"
+  }
+}
